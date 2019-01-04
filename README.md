@@ -1,4 +1,8 @@
 # dailyTaskBrowser
-It displays your name, time, weather and allows adding tasks.
+It has the following features.
+- Displays your name
+- Displays time
+- Displays weather (pulled from Weather API)
+- Background pictures gets changed automatically
 
-It is written with only Vanilla JavaScript.
+#Vanilla JavaScript, CSS, HTML
